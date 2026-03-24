@@ -48,7 +48,9 @@ The solution follows a structured machine learning workflow:
 
 ### 3. Pair Dataset Creation
 - Converted raw records into pairs of accounts  
-- Assigned match/non-match labels using hierarchy logic  
+- Assigned match/non-match labels using hierarchy logic
+  
+**Note:** This solution builds on the exploratory data analysis (EDA) and extends it into a complete machine learning workflow, including model comparison, cross-validation, and hyperparameter tuning. A pair-based dataset was constructed using hierarchy-driven proxy labels, ensuring that the model learns from realistic business relationships rather than artificially generated targets.
 
 ### 4. Modeling
 Three models were evaluated:
