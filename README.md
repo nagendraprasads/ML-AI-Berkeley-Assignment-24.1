@@ -1,4 +1,4 @@
-# Capstone Project: Enterprise Account Matching & Entity Resolution Final Report
+# Capstone Project: Enterprise Account Matching & Entity Resolution
 
 ## Executive Summary
 
@@ -122,5 +122,4 @@ Rather than automatically merging records, the model can flag high-confidence ma
 ## GitHub Repository
 
 - https://github.com/nagendraprasads/ML-AI-Berkeley-Assignment-24.1 - GitHub repository link
-- https://github.com/nagendraprasads/ML-AI-Berkeley-Assignment-24.1/blob/main/README.md - README link
 - https://github.com/nagendraprasads/ML-AI-Berkeley-Assignment-24.1/blob/main/Final_Capstone_Entity_Resolution.ipynb - Jupyter Notebook link
